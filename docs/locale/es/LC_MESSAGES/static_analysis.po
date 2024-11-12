@@ -54,7 +54,7 @@ msgid "[Slither Static Analysis](https://github.com/crytic/slither#slither-the-s
 msgstr "[Slither Static Analysis](https://github.com/crytic/slither#slither-the-solidity-source-analyzer): una completa herramienta de análisis estático"
 
 #: ../../static_analysis.md:17
-msgid "**NOTE:** Slither can only be used when Remix is connected to the local computer's filesystem with [Remixd](remix.html)."
+msgid "**NOTE:** Slither can only be used when Remix is connected to the local computer's filesystem with [Remixd](remixd.html)."
 msgstr "**NOTA:** Slither sólo puede utilizarse cuando Remix está conectado al sistema de archivos del ordenador local con [Remixd](remix.html)."
 
 #: ../../static_analysis.md:19
